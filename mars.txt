@@ -2,4 +2,4 @@ Nice planet here
 Moons could be a problem
 stupid test
 Update to one of the moons
-
+check sync done
